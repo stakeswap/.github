@@ -14,5 +14,6 @@ Existing AMMs can only offer swap fees, while Liquid Staking Protocols can only 
 
 ## Resources
 - Docs: https://stakeswap.gitbook.io/stakeswap/
+- Discord: https://discord.gg/R7caZxe6nm
 - Smart contract: https://github.com/stakeswap/stakeswap-contracts
 - Interface: https://github.com/stakeswap/stakeswap-client
